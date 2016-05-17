@@ -1,0 +1,16 @@
+{
+	"name": "egret",
+	"version": "3.0.5",
+	"modules": [
+		{
+			"name": "q",
+			"description": "q",
+			"files": [
+				"queue.js",
+				"q.js",
+				"q.d.ts"
+			],
+			"root": "src"
+		}
+	]
+}
